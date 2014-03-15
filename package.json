@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VitZdrubecky/hello.git"
+  },
+  "author": "Vit Zdrubecky",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
